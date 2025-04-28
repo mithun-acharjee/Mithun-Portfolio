@@ -23,6 +23,7 @@
                 <a href="[Your LinkedIn URL]" target="_blank"><i class="fab fa-linkedin"></i></a>
                 <a href="mailto:ajeemithun1996@gmail.com"><i class="fas fa-envelope"></i></a>
                 <a href="tel:+8801849292618"><i class="fas fa-phone"></i></a>
+                <a href="https://github.com/mithun-acharjee" target="_blank"><i class="fab fa-github"></i></a>
             </div>
         </div>
     </header>
@@ -140,7 +141,7 @@
                 <p class="duration">2022</p>
             </div>
             <div class="training-item">
-                <h3>CCNA Networking</h3>
+                <h3>CCNA Networking: Routing & Switching</h3>
                 <p class="institution">United International University</p>
                 <p class="duration">2020</p>
             </div>
